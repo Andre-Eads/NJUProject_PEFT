@@ -49,10 +49,6 @@
 
 ## 七、参考资源
 
-- PEFT方法选择指南：https://huggingface.co/docs/peft/en/conceptual_guides/peft
-- 显存分析工具：`pip install memory_profiler`
-- 多任务基准库：https://github.com/XTREME-UIUC/Multi-Task-LM
-
 - HuggingFace PEFT: https://github.com/huggingface/peft
 - AdapterHub: https://adapterhub.ml/
 - LoRA 原论文: https://arxiv.org/abs/2106.09685
